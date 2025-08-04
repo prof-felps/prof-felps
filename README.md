@@ -20,7 +20,7 @@
 ---
 ### 📫 Vamos nos conectar!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-usuario-linkedin](https://www.linkedin.com/in/felipe-rosa-neto))
-[![Gmail](https://img.shields.io/badge/felipe.seuemail@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.neto@docente.senai.br)
+[![Gmail](https://img.shields.io/badge/felipe.neto@docente.senai.br-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.neto@docente.senai.br)
 ---
 🔍 Explore meus repositórios para ver na prática como aplico essas tecnologias em projetos reais!
 
