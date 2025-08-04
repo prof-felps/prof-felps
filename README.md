@@ -1,8 +1,8 @@
 ### 👋 Olá! Eu sou o Felipe Rosa
 
-🎓 Especialista em Gestão da Tecnologia da Informação  
-👨‍🏫 Atuo como professor na área de tecnologia há mais de 7 anos  
-🚀 Desenvolvedor em constante evolução, focado nas seguintes áreas:
+- 🎓 Especialista em Gestão da Tecnologia da Informação  
+- 👨‍🏫 Atuo como professor na área de tecnologia há mais de 7 anos  
+- 🚀 Desenvolvedor em constante evolução, focado nas seguintes áreas:
 ---
 ### 💻 Desenvolvimento Web
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
