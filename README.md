@@ -1,4 +1,4 @@
-### 👋 Olá! Eu sou o Felipe Rosa
+### 👋 Olá! Eu sou o Felipe Rosa Neto
 
 - 🎓 Especialista em Gestão da Tecnologia da Informação
 - 😄 Pronouns: he//him/ele/dele
