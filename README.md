@@ -26,7 +26,7 @@
 🔍 Explore meus repositórios para ver na prática como aplico essas tecnologias em projetos reais!
 
 <div>
-  <a href="https://github.com/felpto">
+  <a href="https://github.com/prof-felps">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prof-felps&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prof-felps&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
