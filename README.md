@@ -1,6 +1,7 @@
 ### 👋 Olá! Eu sou o Felipe Rosa
 
-- 🎓 Especialista em Gestão da Tecnologia da Informação  
+- 🎓 Especialista em Gestão da Tecnologia da Informação
+- 😄 Pronouns: he//him/ele/dele
 - 👨‍🏫 Atuo como professor na área de tecnologia há mais de 7 anos  
 - 🚀 Desenvolvedor em constante evolução, focado nas seguintes áreas:
 ---
@@ -23,8 +24,6 @@
 [![Gmail](https://img.shields.io/badge/felipe.neto@docente.senai.br-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.neto@docente.senai.br)
 ---
 🔍 Explore meus repositórios para ver na prática como aplico essas tecnologias em projetos reais!
-
-- 😄 Pronouns: he//him/ele/dele
 
 <div>
   <a href="https://github.com/felpto">
